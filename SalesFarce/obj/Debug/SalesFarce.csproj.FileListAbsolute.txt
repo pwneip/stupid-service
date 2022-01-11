@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.ProjectInstaller.resources
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.SalesFarce.resources
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.csproj.GenerateResource.cache
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SalesFarce\SalesFarce\bin\Debug\SalesFarce.exe.config
+C:\Users\student\source\repos\SalesFarce\SalesFarce\bin\Debug\SalesFarce.exe
+C:\Users\student\source\repos\SalesFarce\SalesFarce\bin\Debug\SalesFarce.pdb
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.exe
+C:\Users\student\source\repos\SalesFarce\SalesFarce\obj\Debug\SalesFarce.pdb
